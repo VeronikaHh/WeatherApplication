@@ -1,3 +1,4 @@
 # WeatherApplication
-project is not fully done yet\n
+project is not fully done yet
+
 in progres...
